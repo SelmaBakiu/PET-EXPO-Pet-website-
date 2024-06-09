@@ -1,0 +1,273 @@
+[{
+  "_id": {
+    "$oid": "66648cacc3d3f056b7e6cce5"
+  },
+  "type": "cat",
+  "name": "Persian",
+  "origin": "Iran",
+  "description": "The Persian cat is a long-haired breed known for its luxurious coat and sweet personality. They are calm and affectionate cats that enjoy a relaxed indoor lifestyle.",
+  "image": "http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+},
+{
+  "_id": {
+    "$oid": "66648e50c3d3f056b7e6cce8"
+  },
+  "type": "cat",
+  "name": "Siamese",
+  "origin": "Thailand",
+  "description": "The Siamese cat is a vocal and affectionate breed known for its striking blue almond-shaped eyes. They are highly social and enjoy interactive play with their human companions.",
+  "image": "http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+},
+{
+  "_id": {
+    "$oid": "66648e50c3d3f056b7e6cce9"
+  },
+  "type": "cat",
+  "name": "Maine Coon",
+  "origin": "United States",
+  "description": "The Maine Coon is a large and friendly breed known for its tufted ears and bushy tail. They are affectionate and sociable cats that get along well with children and other pets.",
+  "image": "http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+},
+{
+  "_id": {
+    "$oid": "66648e50c3d3f056b7e6ccea"
+  },
+  "type": "cat",
+  "name": "Bengal",
+  "origin": "United States",
+  "description": "The Bengal cat is a medium to large-sized breed known for its wild appearance and energetic nature. They are highly intelligent and require mental and physical stimulation.",
+  "image": "http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+},
+{
+  "_id": {
+    "$oid": "66648e50c3d3f056b7e6cceb"
+  },
+  "type": "cat",
+  "name": "Ragdoll",
+  "origin": "United States",
+  "description": "The Ragdoll cat is a large and affectionate breed known for its relaxed and docile nature. They are named for their tendency to go limp like a ragdoll when picked up.",
+  "image": "http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+},
+{
+  "_id": {
+    "$oid": "66648e50c3d3f056b7e6ccec"
+  },
+  "type": "cat",
+  "name": "Sphynx",
+  "origin": "Canada",
+  "description": "The Sphynx cat is a hairless breed known for its wrinkled skin and large ears. They are social and attention-seeking cats that enjoy being the center of attention.",
+  "image": "http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+},
+{
+  "_id": {
+    "$oid": "66648e50c3d3f056b7e6cced"
+  },
+  "type": "cat",
+  "name": "Scottish Fold",
+  "origin": "Scotland",
+  "description": "The Scottish Fold cat is a unique breed known for its folded ears and round face. They are gentle and easy-going cats that form strong bonds with their human families.",
+  "image": "http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+},
+{
+  "_id": {
+    "$oid": "66648e50c3d3f056b7e6ccee"
+  },
+  "type": "cat",
+  "name": "Abyssinian",
+  "origin": "Ethiopia",
+  "description": "The Abyssinian cat is an active and playful breed known for its ticked coat and expressive eyes. They are intelligent and enjoy interactive play and puzzle toys.",
+  "image": "http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+},
+{
+  "_id": {
+    "$oid": "66648e50c3d3f056b7e6ccef"
+  },
+  "type": "cat",
+  "name": "British Shorthair",
+  "origin": "United Kingdom",
+  "description": "The British Shorthair cat is a sturdy and independent breed known for its dense coat and round face. They are adaptable and get along well with other pets.",
+  "image": "http://www.catster.com/wp-content/uploads/2017/08/Pixiebob-cat.jpg"
+},
+{
+  "_id": {
+    "$oid": "666492c9c3d3f056b7e6ccf4"
+  },
+  "type": "dog",
+  "name": "Golden Retriever",
+  "origin": "Canada",
+  "description": "The Golden Retriever is a friendly and intelligent breed known for its gentle nature and love for people. They are great family pets and excel in various roles, including as guide dogs, therapy dogs, and search and rescue dogs.",
+  "image": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "666492c9c3d3f056b7e6ccf5"
+  },
+  "type": "dog",
+  "name": "Labrador Retriever",
+  "origin": "Canada",
+  "description": "The Labrador Retriever is one of the most popular dog breeds in the world. They are known for their friendly and outgoing nature, as well as their intelligence and trainability. Labs make excellent family pets and are often used as service dogs and therapy dogs.",
+  "image": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "666492c9c3d3f056b7e6ccf6"
+  },
+  "type": "dog",
+  "name": "German Shepherd",
+  "origin": "Germany",
+  "description": "The German Shepherd is a versatile and intelligent breed, often used in police and military roles for their outstanding abilities in tracking, obedience, and protection. They are loyal and protective of their families and are also popular as working dogs and loyal companions.",
+  "image": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg="
+},
+{
+  "_id": {
+    "$oid": "666492c9c3d3f056b7e6ccf7"
+  },
+  "type": "dog",
+  "name": "Beagle",
+  "origin": "United Kingdom",
+  "description": "The Beagle is a friendly and curious breed known for its keen sense of smell. They are often used in scent detection roles and are great family pets due to their playful and affectionate nature.",
+  "image": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "666492c9c3d3f056b7e6ccf8"
+  },
+  "type": "dog",
+  "name": "Bulldog",
+  "origin": "England",
+  "description": "The Bulldog, often known for its distinctive wrinkled face and pushed-in nose, is a calm and friendly breed. Despite their tough appearance, Bulldogs are gentle and affectionate, making them great companions.",
+  "image": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "666492c9c3d3f056b7e6ccf9"
+  },
+  "type": "dog",
+  "name": "Poodle",
+  "origin": "Germany",
+  "description": "The Poodle is a highly intelligent and trainable breed. They come in various sizes and are known for their curly, hypoallergenic coat. Poodles are often seen in dog shows and competitions due to their agility and obedience skills.",
+  "image": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "666492c9c3d3f056b7e6ccfa"
+  },
+  "type": "dog",
+  "name": "Rottweiler",
+  "origin": "Germany",
+  "description": "The Rottweiler is a strong and confident breed known for its protective nature. They are loyal and devoted to their families, making them excellent guard dogs and companions.",
+  "image": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg/cc6639"
+},
+{
+  "_id": {
+    "$oid": "666492c9c3d3f056b7e6ccfb"
+  },
+  "type": "dog",
+  "name": "Yorkshire Terrier",
+  "origin": "England",
+  "description": "The Yorkshire Terrier, often called Yorkie, is a small and elegant breed known for its luxurious long coat. They are brave and full of energy, making them great companions for families and individuals alike.",
+  "image": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "666492c9c3d3f056b7e6ccfc"
+  },
+  "type": "dog",
+  "name": "Boxer",
+  "origin": "Germany",
+  "description": "The Boxer is a playful and energetic breed known for its athleticism and devotion to family. They are excellent watchdogs and are known for their affectionate and protective nature.",
+  "image": "https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg"
+},
+{
+  "_id": {
+    "$oid": "66649824c3d3f056b7e6ccfe"
+  },
+  "type": "bird",
+  "name": "Bald Eagle",
+  "origin": "North America",
+  "description": "The bald eagle is a powerful bird of prey known for its white head and tail feathers.",
+  "image": "https://images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/305589efb66051b29cc46365/pexels-photo-56733.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66649824c3d3f056b7e6ccff"
+  },
+  "type": "bird",
+  "name": "Peacock",
+  "origin": "India",
+  "description": "The peacock is a large and colorful bird known for its extravagant tail feathers.",
+  "image": "https://images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/305589efb66051b29cc46365/pexels-photo-56733.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66649824c3d3f056b7e6cd00"
+  },
+  "type": "bird",
+  "name": "Hornbill",
+  "origin": "Africa, Asia",
+  "description": "Hornbills are medium-sized birds known for their large, curved bills.",
+  "image": "https://images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/305589efb66051b29cc46365/pexels-photo-56733.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66649824c3d3f056b7e6cd01"
+  },
+  "type": "bird",
+  "name": "Hummingbird",
+  "origin": "Americas",
+  "description": "Hummingbirds are small, colorful birds known for their rapid wing beats and hovering abilities.",
+  "wingspan_cm": 13,
+  "weight_kg": 0.0025,
+  "image": "https://images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/305589efb66051b29cc46365/pexels-photo-56733.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66649824c3d3f056b7e6cd02"
+  },
+  "type": "bird",
+  "name": "Penguin",
+  "origin": "Antarctic Region",
+  "description": "Penguins are flightless birds known for their distinctive black and white plumage.",
+  "image": "https://images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/305589efb66051b29cc46365/pexels-photo-56733.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66649824c3d3f056b7e6cd03"
+  },
+  "type": "bird",
+  "name": "Toucan",
+  "origin": "Central and South America",
+  "diet": "Fruits and Insects",
+  "description": "Toucans are brightly colored birds known for their large, colorful bills.",
+  "image": "https://images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/305589efb66051b29cc46365/pexels-photo-56733.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66649824c3d3f056b7e6cd04"
+  },
+  "type": "bird",
+  "name": "Albatross",
+  "origin": "Southern Ocean",
+  "description": "Albatrosses are large seabirds known for their long wingspans and impressive gliding abilities.",
+  "image": "https://images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/305589efb66051b29cc46365/pexels-photo-56733.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66649824c3d3f056b7e6cd05"
+  },
+  "type": "bird",
+  "name": "Flamingo",
+  "origin": "Africa, Americas",
+  "description": "Flamingos are large wading birds known for their vibrant pink plumage and distinctive hooked bills.",
+  "image": "https://images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/305589efb66051b29cc46365/pexels-photo-56733.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66649824c3d3f056b7e6cd06"
+  },
+  "type": "bird",
+  "name": "Ostrich",
+  "origin": "Africa",
+  "description": "Ostriches are flightless birds known for being the largest and fastest birds on land.",
+  "image": "https://images02.nicepage.com/a1389d7bc73adea1e1c1fb7e/305589efb66051b29cc46365/pexels-photo-56733.jpeg"
+}]
