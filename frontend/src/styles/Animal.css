@@ -1,0 +1,103 @@
+.animalContainer {
+    text-align: center;
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .animal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #4e855d;
+  }
+  .animalContainer h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form button {
+    font-size: 1em;
+    padding: 10px 20px;
+    border: none;
+    background-color: #305f32; 
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s;
+    width: 100%;
+  }
+  
+  .form button:disabled {
+    background-color: #ccc;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  /* Specific styles for each form */
+  .createAnimal .form button {
+    background-color: #007bff;
+  }
+  
+  .createAnimal .form button:hover:not(:disabled) {
+    background-color: #0056b3;
+  }
+  
+  .deleteAnimal .form button {
+    background-color: #dc3545;
+  }
+  
+  .deleteAnimal .form button:hover:not(:disabled) {
+    background-color: #c82333;
+  }
+  
+  .updateAnimal .form button {
+    background-color: #28a745;
+  }
+  
+  .updateAnimal .form button:hover:not(:disabled) {
+    background-color: #218838;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+
+  }
+  
+  th, td {
+    padding: 12px 16px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #4e855d;
+    font-weight: 600;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #4e855d;
+  }
+    

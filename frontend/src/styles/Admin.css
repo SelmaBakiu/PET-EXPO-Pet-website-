@@ -1,0 +1,97 @@
+.admin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #4e855d;
+  }
+  
+  .headerContainer {
+    text-align: center;
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  input[type="password"] {
+    padding: 10px;
+    font-size: 1em;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+ .admin button {
+    font-size: 1em;
+    padding: 10px 20px;
+    border: none;
+    background-color: #305f32; 
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s;
+    width: 100%;
+  }
+  
+  .adminbutton:hover {
+    background-color: #45a049; 
+  }
+  
+  .actionContainer {
+    margin-top: 20px;
+  }
+
+.headerContainer input[type="password"],
+.headerContainer input[type="text"],
+.headerContainer input[type="file"],
+.headerContainer textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.headerContainer input[type="password"]:focus,
+.headerContainer input[type="text"]:focus,
+.headerContainer textarea:focus {
+  outline: none;
+  border-color: #305f32;
+}
+
+.actionContainer form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.actionContainer form input[type="submit"],
+.actionContainer form button[type="submit"] {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #28a745;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 20px;
+}
+
+.actionContainer form button[type="submit"]:hover {
+  background-color: #218838;
+}
